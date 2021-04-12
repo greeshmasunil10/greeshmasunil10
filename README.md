@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greeshmasunil10
 - 👀 I’m interested in: anything challenging.
-- 🌱 I’m currently learning React, Node, Spring.
+- 🌱 I’m currently practising React, Node, Spring.
 - 💞️ Looking to collaborate
 - 📫 How to reach me : Ping me on [LinkedIn](https://www.linkedin.com/in/greeshma-sunil/)
 
