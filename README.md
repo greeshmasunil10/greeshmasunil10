@@ -2,7 +2,7 @@
 - 👀 I’m interested in: anything challenging.
 - 🌱 I’m currently practising React, Node, Spring.
 - 💞️ Looking to collaborate
-- 📫 How to reach me : Ping me on [LinkedIn](https://www.linkedin.com/in/greeshma-sunil/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/greeshma-sunil/)
 
 <!---
 greeshmasunil10/greeshmasunil10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
