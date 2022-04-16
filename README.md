@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greeshmasunil10
-- 👀 I’m interested in: anything challenging.
-- 🌱 I’m currently practising React, Node, Spring.
+- 👀 I’m interested in: learning new languages
+- 🌱 I’m currently practising: MERN Stack
 - 💞️ Looking to collaborate
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/greeshma-sunil/)
 
