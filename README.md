@@ -2,8 +2,6 @@
 
 I'm Greeshma, a full-stack developer interested in learning new languages and technologies. I'm currently practicing MERN Stack and looking to collaborate on interesting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/greeshma-sunil/).
 
-## My Github Metrics
-
 ![Profile Views](https://komarev.com/ghpvc/?username=greeshmasunil10&color=blueviolet)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greeshmasunil10&langs_count=8&layout=compact&theme=panda)
